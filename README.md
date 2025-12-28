@@ -6,6 +6,8 @@ Es un proyecto sencillo, pero hecho con cariño, buenas prácticas y pensando de
 
 ---
 
+## LINK EN VERCEL: https://distribuicion-pagos.vercel.app/
+
 ## 🚀 ¿Qué hace la aplicación?
 
 La aplicación permite:
